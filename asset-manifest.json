@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/seunekunkoya/Expense-Tracker/static/css/main.553f390c.chunk.css",
+    "main.js": "/seunekunkoya/Expense-Tracker/static/js/main.607a59a8.chunk.js",
+    "main.js.map": "/seunekunkoya/Expense-Tracker/static/js/main.607a59a8.chunk.js.map",
+    "runtime~main.js": "/seunekunkoya/Expense-Tracker/static/js/runtime~main.5001ef09.js",
+    "runtime~main.js.map": "/seunekunkoya/Expense-Tracker/static/js/runtime~main.5001ef09.js.map",
+    "static/css/2.266e55a5.chunk.css": "/seunekunkoya/Expense-Tracker/static/css/2.266e55a5.chunk.css",
+    "static/js/2.5144db86.chunk.js": "/seunekunkoya/Expense-Tracker/static/js/2.5144db86.chunk.js",
+    "static/js/2.5144db86.chunk.js.map": "/seunekunkoya/Expense-Tracker/static/js/2.5144db86.chunk.js.map",
+    "index.html": "/seunekunkoya/Expense-Tracker/index.html",
+    "precache-manifest.1c3f462697f806693103b68591192f41.js": "/seunekunkoya/Expense-Tracker/precache-manifest.1c3f462697f806693103b68591192f41.js",
+    "service-worker.js": "/seunekunkoya/Expense-Tracker/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/seunekunkoya/Expense-Tracker/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.553f390c.chunk.css.map": "/seunekunkoya/Expense-Tracker/static/css/main.553f390c.chunk.css.map",
+    "static/media/fundall.svg": "/seunekunkoya/Expense-Tracker/static/media/fundall.a33c947d.svg",
+    "static/media/Dashboard.css": "/seunekunkoya/Expense-Tracker/static/media/fundallDashboard.4c759b1f.svg",
+    "static/media/fundallLogin.svg": "/seunekunkoya/Expense-Tracker/static/media/fundallLogin.a242c9bc.svg",
+    "static/media/fundalllogo.svg": "/seunekunkoya/Expense-Tracker/static/media/fundalllogo.40c7b9f3.svg"
+  }
+}
