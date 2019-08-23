@@ -1,0 +1,11 @@
+.welcome-text {
+  padding: 40px 30px;
+}
+
+.welcome-text span {
+  color: #4de897;
+}
+
+input:focus {
+  border: 2px solid #4de897;
+}
